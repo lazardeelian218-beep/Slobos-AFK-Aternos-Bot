@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Acesino",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "Leliu20.aternos.me",
     "port": 48157,
     "version": "1.21.1",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 4000
     }
   },
   "modules": {
