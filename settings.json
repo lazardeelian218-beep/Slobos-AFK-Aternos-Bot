@@ -29,9 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 2,
       "messages": [
-        "I'm a regular player",
+        "LeliuYT TU PAPI",
         "Suscribete a Leliu y La Pone",
         "https://discord.gg/ZvZ2cJ64kC"
       ]
