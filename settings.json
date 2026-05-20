@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 2,
+      "repeat-delay": 80,
       "messages": [
         "LeliuYT TU PAPI",
         "Suscribete a Leliu y La Pone",
